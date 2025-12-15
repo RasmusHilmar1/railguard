@@ -1,6 +1,6 @@
 # 🚂 Railguard
 
-[![GitHub release](https://img.shields.io/github/v/release/RasmusHilmar1/railguard)](https://github.com/RasmusHilmar1/railguard/releases)
+[![GitHub tag](https://img.shields.io/github/v/tag/RasmusHilmar1/railguard?include_prereleases)](https://github.com/RasmusHilmar1/railguard/releases)
 [![Go Reference](https://pkg.go.dev/badge/github.com/RasmusHilmar1/railguard.svg)](https://pkg.go.dev/github.com/RasmusHilmar1/railguard)
 [![Go Report Card](https://goreportcard.com/badge/github.com/RasmusHilmar1/railguard)](https://goreportcard.com/report/github.com/RasmusHilmar1/railguard)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
